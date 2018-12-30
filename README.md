@@ -2,4 +2,4 @@
 
 Simple game of the hanged man made in python
 
-![Image of hangman](/images/pic.png)
+![Image of hangman](/images/pic1.png)
