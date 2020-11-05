@@ -1,5 +1,5 @@
 # python-hangman
 
-Simple game of the hanged man made in python
+Simple game of the hanged man. :D
 
 ![Image of hangman](/images/pic1.png)
